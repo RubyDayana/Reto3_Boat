@@ -18,7 +18,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 /**
  * Esta clase repesenta a la  entidad Bote
- * @author desaextremo
+ * @author Ruby Dayana
  */
 
 @Entity
